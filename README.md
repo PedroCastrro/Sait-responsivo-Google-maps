@@ -1,7 +1,7 @@
 ### READEME
 ##Projeto implementaçao de google maps 
 
-<p>Nesse site foi usado html , css. </p>
+<p>Nesse site foi usado html , css e javascript</p>
 
 <div>
 <img "alt="" src="./imagens/logo-tomada.jpg">
