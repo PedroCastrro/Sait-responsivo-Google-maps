@@ -7,7 +7,7 @@
 <img "alt="" src="./imagens/logo-tomada.jpg">
 </div>
 
-<h2>RM Veicilos Veiculos Redesigin</h2>
+<h2>Projeto implementaçao de google maps  Redesigin</h2>
 
 <p>Abaixo fotos, gif e video</p>
 
