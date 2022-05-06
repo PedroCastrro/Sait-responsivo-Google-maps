@@ -23,10 +23,10 @@
 
 ## Features <br/>
 
-[x]filtre por buscas
-[]filtre por ano
-[]Slides em js
-[x]transição de pagina em html
-[x]stylização
-[x]formulario
-[x]home nav
+[x]filtre por buscas<br/>
+[]filtre por ano<br/>
+[]Slides em js<br/>
+[x]transição de pagina em html<br/>
+[x]stylização<br/>
+[x]formulario<br/>
+[x]home nav<br/>
